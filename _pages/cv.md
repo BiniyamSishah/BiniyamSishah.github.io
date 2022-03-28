@@ -14,7 +14,9 @@ Education
 * B.Sc. in Civil Engineering, Jimma University, 2012 [Degree](https://drive.google.com/file/d/1YK0AYLPx_S1e-jUzTh8ImvMDdGFXGcme/view?usp=sharing) [Courses](https://drive.google.com/file/d/1UQsQs4lIMQkr-lGydmT4JLlC05uCvGVv/view?usp=sharing) [Ranking](https://drive.google.com/file/d/1IUiKxf4L7wGM2QoCwBLKOkwr2tHMCBjn/view?usp=sharing)
 * M.Sc. in Water Resources Engineering, Ku Leuven and VUB, 2015 [Degree](https://drive.google.com/file/d/1iBCQzZ8-l_JT9eorvL-gY_vTTw0tTZwl/view?usp=sharing) [Courses](https://drive.google.com/file/d/1UjjcvCVA_lUs_E3A_nrlJUPLxKMta0K_/view?usp=sharing) [Thesis](https://www.researchgate.net/publication/353730803_Applying_Unstructured_Grid_Model_for_Tides_in_the_Belgian_Continental_Shelf)
 * Ph.D program in [Fluid dynamics and Environmental Engineering](http://dottorato.dicca.unige.it/eng/fluamb/), University of Genoa, 2022 (expected)
-  * PhD level Courses on:
+  * Research: Modeling the turbulent oscillatory flow over two - dimensional vortex ripples
+     * ABSTRACT: In the aim of detecting features of the flow field which influence the ripple shape and the sediment transport at the bottom of sea waves, the oscillatory turbulent flow over two-dimensional vortex ripples is numerically solved using a RANSE approach. The results show that, as the ratio between the fluid excursion and the ripple wavelength is increased, the vortex shed on one side of the ripple crest is no longer mirrored by the vortex shed on the other side. Moreover, steady recirculating cells form, which might distort the profile of ripples in an erodible bed. A horizontal steady streaming is also formed which is directed onshore/offshore. 
+  * Courses on:
      * Fluid-Surface Interaction Across Length Scales, [Prof. Shervin Bagheri](https://www.bagherigroup.com/team/group/)
      * Hydodynamics Stability, [Prof. Jan Pralits](https://rubrica.unige.it/personale/VUZBU1ps)
      * Mixing Process in Fluids [Prof. Alessandro Stocchino](https://www.polyu.edu.hk/en/cee/people/academic-staff/dr-alessandro-stocchino/)
