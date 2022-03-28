@@ -9,10 +9,15 @@ location: "Arba Mich, Ethiopia"
 ---
 
 * Title:  Investigating the spatial patterns of sediment deposition in Gibe-iii reservoir
+
   Local advisor: Abdella Kemal (Dr.-Ing)
+  
   External advisor: Biniyam Sishah(PhD candidate) 
+  
   Co-Advisor: Mekuanent Muluneh (M.Sc.)
+  
   Abstract:
-This thesis integrates a process-based numerical model (Delft3D) with a physically distributed hydrological model (SWAT) to investigate the sediment pattern developed in time and space in a reservoir. 
+  
+  This thesis integrates a process-based numerical model (Delft3D) with a physically distributed hydrological model (SWAT) to investigate the sediment pattern developed in time and space in a reservoir. 
 
   
