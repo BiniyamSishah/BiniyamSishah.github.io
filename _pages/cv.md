@@ -96,7 +96,7 @@ Training in Computational Fluid dynamics
 5.	[OpenFOAM Introductory Training organized by Wolf Dynamics, Genoa, Italy, July 2018.](http://www3.dicca.unige.it/guerrero_old/OpenFOAM_course2018summer.html)
 6.	[OpenFOAM Advanced Training organized by Wolf Dynamics, Genoa, Italy, February 2019.](http://www.wolfdynamics.com/our-services/training/topenfoam-advanced-training.html?id=131) 
 7.	[Flow3D, Water and Environment workshop Électricité de France S.A., June 18-19, 2019, France](https://www.flow3d.com/flow-3d-european-users-conference-2019/)
-8.  [High Performance Computing in Data Science: focus on Parallelisation with MPI, Feb, 2022](https://moodle.lecad.fs.uni-lj.si/?redirect=0)
+8.  [High Performance Computing in Data Science: focus on Parallelisation with MPI, Feb, 2022](https://drive.google.com/file/d/1DYa9CnR6YmUd5rBmzymjzxkQ5nMNTEhT/view?usp=sharing)
 9.  [COMPUTATIONAL FLUID DYNAMICS WITH OPEN-SOURCE SOFTWARE,Politecnico di Milano, Feb, 2022](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=730247&__pj0=0&__pj1=afefb5db1435425d1ca7b283ec114cf1)
 10. [Ocean campus summer school - Coastal Metrology and Oceanography, July 6 - 13, 2015; Escola Naval, Portugal](https://drive.google.com/file/d/1vaL_h4Drs3INbldD1bh3QhV1AVx8myrz/view?usp=sharing)
 
