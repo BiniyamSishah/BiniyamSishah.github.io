@@ -14,6 +14,9 @@ Education
 * B.Sc. in Civil Engineering, Jimma University, 2012 [Degree](https://drive.google.com/file/d/1YK0AYLPx_S1e-jUzTh8ImvMDdGFXGcme/view?usp=sharing) [Courses](https://drive.google.com/file/d/1UQsQs4lIMQkr-lGydmT4JLlC05uCvGVv/view?usp=sharing) [Ranking](https://drive.google.com/file/d/1IUiKxf4L7wGM2QoCwBLKOkwr2tHMCBjn/view?usp=sharing)
 * M.Sc. in Water Resources Engineering, Ku Leuven and VUB, 2015 [Degree](https://drive.google.com/file/d/1iBCQzZ8-l_JT9eorvL-gY_vTTw0tTZwl/view?usp=sharing) [Courses](https://drive.google.com/file/d/1UjjcvCVA_lUs_E3A_nrlJUPLxKMta0K_/view?usp=sharing) [Thesis](https://www.researchgate.net/publication/353730803_Applying_Unstructured_Grid_Model_for_Tides_in_the_Belgian_Continental_Shelf)
 * Ph.D program in [Fluid dynamics and Environmental Engineering](http://dottorato.dicca.unige.it/eng/fluamb/), University of Genoa, 2022 (expected)
+  * PhD level Courses on:
+     * Fluid-Surface Interaction Across Length Scales, [Prof. Shervin Bagheri](https://www.bagherigroup.com/team/group/)
+  
 
 Work experience
 ======
