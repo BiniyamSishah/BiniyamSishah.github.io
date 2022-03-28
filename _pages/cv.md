@@ -104,7 +104,7 @@ Other trainings
 ======
 1. [Ecohydrology and systemic biotechnology solutions for implimentation of sustainablity in africa, Nov 7-11,2016, Addis Ababa, Ethiopia.](https://drive.google.com/file/d/1eQgIdu_dclu3_9xswSxIG2eSyJmCoTL3/view?usp=sharing)
 2. [Introduction to Geographical information system, March 18-22,2013, Jimma, Ethiopia](https://drive.google.com/file/d/1SGVTGV6_CLrrKly22vFpnV_x0OO2hjFl/view?usp=sharing) 
-3. [2018 trainning Course on small Hydropwer Technology for Ethiopia, July 21 - August 14, 2018.](https://drive.google.com/file/d/1bHLojCL-By1ALmulxOWiFNXWmRCRxTbI/view?usp=sharing)
+3. 2018 trainning Course on small Hydropwer Technology for Ethiopia, July 21 - August 14, 2018.[program](http://www.hrcshp.org/en/alumni/2018_6.html) [Certificate](https://drive.google.com/file/d/1bHLojCL-By1ALmulxOWiFNXWmRCRxTbI/view?usp=sharing)
 
 Awards
 ======
