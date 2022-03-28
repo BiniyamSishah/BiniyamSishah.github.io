@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience 4"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate courses"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Addis Ababa Science and Technology University, Department of Water supply and Environmental Engineering"
+date: 2017-06-01
+location: "Addis Ababa, Ethiopia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Water quality management
+* Community water supply and sanitation
+* Sewerage engineering
+* Groundwater hydrology
+* [River Engineering and sediment transport](https://drive.google.com/file/d/1gNHLuysF_NXpP5Ublfs5Iq-Rp3oZE8Ij/view?usp=sharing)
