@@ -90,7 +90,7 @@ Membership of Professional socites
 Training in Computational Fluid dynamics
 ======
 1.	[Virtual school on numerical methods for parallel CFD by CINECA, Dec 13-17, 2021 Genoa, Italy](https://eventi.cineca.it/en/hpc/virtual-school-numerical-methods-parallel-cfd/20211213)
-2.	[Summer school in parallel computing by CINECA, July 5 – 16, 2021 Genoa, Italy](https://eventi.cineca.it/en/hpc/online-summer-school-parallel-computing/line-event-20210705)
+2.	[Summer school in parallel computing by CINECA, July 5 – 16, 2021 Genoa, Italy](https://drive.google.com/file/d/1_HPw5zMLNSGMtlBbXbDZSr97D4sXLG1V/view?usp=sharing)
 3.	[Fluid-Structure Interaction: Modelling, Simulation and Applications, 2021, March -June, Chalmers University of Technology](https://huadong.m2.chalmers.se/2020/10/27/fmms035/)
 4.	[Hydrodynamics modelling with Delft3D, Federal University of Paraná (UFPR), Curitiba, Brazil](http://www.ambiental.ufpr.br/portal/professores/tobias/teaching/delft3d/)
 5.	[OpenFOAM Introductory Training organized by Wolf Dynamics, Genoa, Italy, July 2018.](http://www3.dicca.unige.it/guerrero_old/OpenFOAM_course2018summer.html)
