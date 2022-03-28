@@ -8,9 +8,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
         
   - title: "Blog"
     url: /year-archive/
@@ -20,3 +17,10 @@ main:
     
   - title: "Contacts"
     url: /markdown/
+    
+  - title: "youtube"
+    url: /damot/
+
+
+#  - title: "Portfolio"
+#    url: /portfolio/
