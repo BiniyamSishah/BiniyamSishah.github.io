@@ -83,7 +83,7 @@ Membership of Professional socites
 =====
 1. American Water Resources Association
 2. American Civil Engineering Association
-3. International Association for Hydro-Environment Engineering and Research
+3. [International Association for Hydro-Environment Engineering and Research](https://www.iahr.org/individual-member/user?member_no=64806)
 4. European Mechanics Society
 
 
