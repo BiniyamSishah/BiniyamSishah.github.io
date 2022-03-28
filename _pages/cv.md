@@ -19,11 +19,11 @@ Education
   * Courses on:
      * Fluid-Surface Interaction Across Length Scales, [Prof. Shervin Bagheri](https://www.bagherigroup.com/team/group/)
      * Hydodynamics Stability, [Prof. Jan Pralits](https://rubrica.unige.it/personale/VUZBU1ps)
-     * Mixing Process in Fluids [Prof. Alessandro Stocchino](https://www.polyu.edu.hk/en/cee/people/academic-staff/dr-alessandro-stocchino/)
+     * Mixing Process in Fluids [Prof. Alessandro Stocchino](https://www.polyu.edu.hk/en/cee/people/academic-staff/dr-alessandro-stocchino/) [Francesco Enrile](https://www.linkedin.com/in/francesco-enrile-911035117/?originalSubdomain=it) [Prof. Andrea Mazzino](http://www3.dicca.unige.it/mazzino/) [Prof. Alessandro Stocchino](https://www.polyu.edu.hk/en/cee/people/academic-staff/dr-alessandro-stocchino/)
      * Modelling Camp 
      * Perturbation Methods 1 [Prof. Nicoletta Tambroni](https://rubrica.unige.it/personale/UkNHXVlp) [Prof. Giovanna Vittori](https://rubrica.unige.it/personale/VUZDW1Jp)
      * Turbulence and CFD models [Prof. Andrea Mazzino](http://www3.dicca.unige.it/mazzino/) [Prof. Joel Gurerro](http://www.dicat.unige.it/guerrero/index.html)
-  
+     * Continuum Mechanics [Prof. Angelo Morro](https://rubrica.unige.it/personale/VUFFW1ht)
 
 Work experience
 ======
