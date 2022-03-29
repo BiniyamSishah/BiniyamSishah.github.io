@@ -1,6 +1,6 @@
 ---
 title: "Delft3D tutorial on reservoir hydrodynamics and siltation modeling"
-excerpt: "A tutorial that teaches beginners how to process data to perform reservoir modeling in Delft3D, simulation in parallel with Delft3D, and post-processing of Delft3D results."
+excerpt: "A tutorial that teaches beginners how to process data to perform reservoir modeling in Delft3D, simulation in parallel with Delft3D, and post-processing of Delft3D results. [QGIS](https://www.qgis.org/it/site/), [Delft3D](https://oss.deltares.nl/web/delft3d),[GoogleEarth](https://earth.google.com/web/), MicrosoftExcel and [tcx-converter](https://tcx-converter.software.informer.com/)"
 collection: portfolio
 ---
 * Pre - processing in Delft3D for reservoir hydrodynamics
