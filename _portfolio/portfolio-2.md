@@ -1,6 +1,6 @@
 ---
 title: "Delft3D is used to model the filling of the Great Ethiopian Renaissance dam under varying scenarios."
-excerpt: "A tutorial that teaches beginners how to process data to perform reservoir modeling in Delft3D, simulation in parallel with Delft3D, and post-processing of Delft3D results."
+excerpt: ""
 collection: portfolio
 ---
 * [Modified Bathymetry to study the hydrodynamics of the Grand Ethiopian Renaissance Dam](https://youtu.be/j0mPKMIyi5c) 
