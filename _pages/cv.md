@@ -16,7 +16,7 @@ Education
 * Ph.D program in [Fluid dynamics and Environmental Engineering](http://dottorato.dicca.unige.it/eng/fluamb/), University of Genoa, 2022 (expected)
   * Research: Modeling the turbulent oscillatory flow over two - dimensional vortex ripples
      * ABSTRACT: In the aim of detecting features of the flow field which influence the ripple shape and the sediment transport at the bottom of sea waves, the oscillatory turbulent flow over two-dimensional vortex ripples is numerically solved using a RANSE approach. The results show that, as the ratio between the fluid excursion and the ripple wavelength is increased, the vortex shed on one side of the ripple crest is no longer mirrored by the vortex shed on the other side. Moreover, steady recirculating cells form, which might distort the profile of ripples in an erodible bed. A horizontal steady streaming is also formed which is directed onshore/offshore. 
-  * Courses on:
+  * Courses:
      * Fluid-Surface Interaction Across Length Scales, [Prof. Shervin Bagheri](https://www.bagherigroup.com/team/group/)
      * Hydodynamics Stability, [Prof. Jan Pralits](https://rubrica.unige.it/personale/VUZBU1ps)
      * Mixing Process in Fluids [Prof. Alessandro Stocchino](https://www.polyu.edu.hk/en/cee/people/academic-staff/dr-alessandro-stocchino/) [Francesco Enrile](https://www.linkedin.com/in/francesco-enrile-911035117/?originalSubdomain=it) [Prof. Andrea Mazzino](http://www3.dicca.unige.it/mazzino/) [Prof. Alessandro Stocchino](https://www.polyu.edu.hk/en/cee/people/academic-staff/dr-alessandro-stocchino/)
