@@ -26,7 +26,7 @@ Education
      * Continuum Mechanics [Prof. Angelo Morro](https://rubrica.unige.it/personale/VUFFW1ht)
      * Fluid-Structure Interaction: Modelling, Simulation and Applications, 2021, March -June, Chalmers University of Technology [program](https://huadong.m2.chalmers.se/2020/10/27/fmms035/)       [Certificate](https://drive.google.com/file/d/1f_ka9YXMKYdgeYZ0qxPaNu5gZbH626Vg/view?usp=sharing)
      * Hydrodynamics modelling with Delft3D, Federal University of Paraná (UFPR), Curitiba, Brazil [program](http://www.ambiental.ufpr.br/portal/professores/tobias/teaching/delft3d/) [Certificate](https://drive.google.com/file/d/1qaXC6A7ZDbftjbZGITMQQkQCCAcpnTij/view?usp=sharing)
-   * Trainings and workshops
+   * Trainings and workshops:
      * [Virtual school on numerical methods for parallel CFD by CINECA, Dec 13-17, 2021 Genoa, Italy](https://eventi.cineca.it/en/hpc/virtual-school-numerical-methods-parallel-cfd/20211213)
      * [Summer school in parallel computing by CINECA, July 5 – 16, 2021 Genoa, Italy](https://drive.google.com/file/d/1_HPw5zMLNSGMtlBbXbDZSr97D4sXLG1V/view?usp=sharing)
      * [OpenFOAM Introductory Training organized by Wolf Dynamics, Genoa, Italy, July 2018.](http://www3.dicca.unige.it/guerrero_old/OpenFOAM_course2018summer.html)
