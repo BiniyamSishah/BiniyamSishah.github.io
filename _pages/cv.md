@@ -76,8 +76,13 @@ Work experience
   
 Soft Skills
 ======
-* OpenFOAM, Ansys, Delft3D, Matlab, Python, Fortran90, Parallel programming, 
-* C ++, Latex, Linux, AutoCAD, WaterCAD, ArcGIS, QGIS, Github, Dakota 
+* OpenFOAM, Ansys, FLOW3D, HPC  
+* Delft3D, Telemac2D, HecRAS
+* Matlab, Python, Fortran90, C ++, mpi, Latex, Linux, Github, HPC, Microsfot Excel
+* AutoCAD, WaterCAD 
+* ArcGIS, QGIS  
+* Dakota 
+* Onshape 
 
 Hard Skills
 ======
