@@ -74,32 +74,14 @@ Work experience
   * Oromia water works design and supervision enterprise
   * Duties included: Design of water supply and Irrigation systems.  
   
-  
 Soft Skills
 ======
-* OpenFOAM 
-* Ansys
-* Delft3D
-* Matlab 
-* Python
-* Fortran 90
-* Parallel programming
-* C ++
-* Latex
-* Linux
-* AutoCAD
-* WaterCAD
-* ArcGIS, QGIS
-* Github
-* Dakota 
+* OpenFOAM, Ansys, Delft3D, Matlab, Python, Fortran90, Parallel programming, 
+* C ++, Latex, Linux, AutoCAD, WaterCAD, ArcGIS, QGIS, Github, Dakota 
 
 Hard Skills
 ======
 * Certified in Structural construction work [Level-1](https://drive.google.com/file/d/1d2nRLWjHXK0q2JkZfU3Bx4R126Ujr7gT/view?usp=sharing) [Level-2](https://drive.google.com/file/d/1l4tUAjuYLBDZ2buIQVpV0EYMxu_WQuWt/view?usp=sharing) [Level-3](https://drive.google.com/file/d/1HZlCkyYePrWLYH5IyvjZkx3TOXY1fEfF/view?usp=sharing)
-
-Other Skills
-=====
-* Chinese Wushu Martial Art 
 
 Membership of Professional socites
 =====
@@ -108,7 +90,6 @@ Membership of Professional socites
 3. [International Association for Hydro-Environment Engineering and Research](https://www.iahr.org/individual-member/user?member_no=64806)
 4. European Mechanics Society
 
-
 Other trainings and workshops
 ======
 1. [Ecohydrology and systemic biotechnology solutions for implimentation of sustainablity in africa, Nov 7-11,2016, Addis Ababa, Ethiopia.](https://drive.google.com/file/d/1eQgIdu_dclu3_9xswSxIG2eSyJmCoTL3/view?usp=sharing)
@@ -116,12 +97,17 @@ Other trainings and workshops
 3. 2018 trainning Course on small Hydropwer Technology for Ethiopia, July 21 - August 14, 2018.[program](http://www.hrcshp.org/en/alumni/2018_6.html) [Certificate](https://drive.google.com/file/d/1bHLojCL-By1ALmulxOWiFNXWmRCRxTbI/view?usp=sharing)
 4.  [Ocean campus summer school - Coastal Metrology and Oceanography, July 6 - 13, 2015; Escola Naval, Portugal](https://drive.google.com/file/d/1vaL_h4Drs3INbldD1bh3QhV1AVx8myrz/view?usp=sharing)
 
+
 Awards
 ======
 1. [Certificate of recongnition for the best final year undergraduate project](https://drive.google.com/file/d/1XoHku1etL4qowOx5tcvFD-buJ-4UozRx/view?usp=sharing)
 2. [VLIR-UOS masters-ICP scholarship](https://www.vliruos.be/en/scholarships/scholarships_in_flanders/scholarships_for_master_programmes_(icp_connect)/114)
 3. Sponsered to attend the IUPWARE almunia event of 2018 held in Cuenca, Ecuador
 3. 34th PhD Fellowship grant by University of Genao
+
+Other Skills
+=====
+* Chinese Wushu Martial Art 
 
 Publications
 ======
