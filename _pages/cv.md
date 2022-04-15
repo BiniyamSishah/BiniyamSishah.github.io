@@ -27,7 +27,7 @@ Education
      * Continuum Mechanics [Prof. Angelo Morro](https://rubrica.unige.it/personale/VUFFW1ht)
      * Fluid-Structure Interaction: Modelling, Simulation and Applications, 2021, March -June, Chalmers University of Technology [program](https://huadong.m2.chalmers.se/2020/10/27/fmms035/)       [Certificate](https://drive.google.com/file/d/1f_ka9YXMKYdgeYZ0qxPaNu5gZbH626Vg/view?usp=sharing)
      * Hydrodynamics modelling with Delft3D, Federal University of Paraná (UFPR), Curitiba, Brazil [program](http://www.ambiental.ufpr.br/portal/professores/tobias/teaching/delft3d/) [Certificate](https://drive.google.com/file/d/1qaXC6A7ZDbftjbZGITMQQkQCCAcpnTij/view?usp=sharing)
-     * [COMPUTATIONAL FLUID DYNAMICS WITH OPEN-SOURCE SOFTWARE,Politecnico di Milano, Feb, 2022](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=730247&__pj0=0&__pj1=afefb5db1435425d1ca7b283ec114cf1)
+     * COMPUTATIONAL FLUID DYNAMICS WITH OPEN-SOURCE SOFTWARE,Politecnico di Milano, Feb, 2022 [program](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=730247&__pj0=0&__pj1=afefb5db1435425d1ca7b283ec114cf1) [Certificate](https://drive.google.com/file/d/19hI6dh9ddjt5dApFovewlfCEOUyVRiuJ/view?usp=sharing)
      
    * Trainings and workshops:
      * [Virtual school on numerical methods for parallel CFD by CINECA, Dec 13-17, 2021 Genoa, Italy](https://eventi.cineca.it/en/hpc/virtual-school-numerical-methods-parallel-cfd/20211213)
