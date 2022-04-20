@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download](https://drive.google.com/file/d/1JO8ntNYDYI1QHux_0UQyghUMhQq5R_T9/view?usp=sharing) the pdf version here.
+
 Education
 ======
 * B.Sc. in Civil Engineering, Jimma University, 2012 [Degree](https://drive.google.com/file/d/1YK0AYLPx_S1e-jUzTh8ImvMDdGFXGcme/view?usp=sharing) [Courses](https://drive.google.com/file/d/1UQsQs4lIMQkr-lGydmT4JLlC05uCvGVv/view?usp=sharing) [Ranking](https://drive.google.com/file/d/1IUiKxf4L7wGM2QoCwBLKOkwr2tHMCBjn/view?usp=sharing)
