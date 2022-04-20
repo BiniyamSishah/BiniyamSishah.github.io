@@ -50,7 +50,7 @@ Work experience
   * Unity University
   * Duties include: giving lectures to undergraduate Civil Engineering students. 
 
-* 06/2016 – 10/2016: [Lecturer, department of Water Works Construction and Technology](https://drive.google.com/file/d/1izTPj39ooBEYhG-pDerlyVdm_dMB7RYS/view?usp=sharing)
+* 06/2016 – 10/2017: [Lecturer, department of Water Works Construction and Technology](https://drive.google.com/file/d/1izTPj39ooBEYhG-pDerlyVdm_dMB7RYS/view?usp=sharing)
   * [Ethiopian Federal Technical university](https://www.ftveti.edu.et/about.php)
   * Duties included: Giving lectures to undergraduate students (25 %), Involve in research works (75 %) and perform administrative tasks assigned by the department.
 
