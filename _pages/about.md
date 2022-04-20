@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my Ph.D. in civil, Chemical and Environmental Engineering, with a specialization in [Fluid Dynamics and Environmental Engineering](http://dottorato.dicca.unige.it/eng/fluamb/) from the University of Genoa, Italy.   
+I obtained my Ph.D. in civil, Chemical and Environmental Engineering, with a specializing in [Fluid Dynamics and Environmental Engineering](http://dottorato.dicca.unige.it/eng/fluamb/) from the University of Genoa, Italy.   
 
 My previous experiences working in the academy, consulting, and construction sectors inspired me to pursue a Ph.D. The further one immerses in the field of hydraulic and hydrologic engineering it becomes clear that the ability of the professional to engage in cross-cutting work depends on the level of [Computational Fluid Dynamics](https://en.wikipedia.org/wiki/Computational_fluid_dynamics) (CFD) knowledge he/she has. The main reason is that fluid flow is governed by partial differential equations representing conservation laws of [mass](https://en.wikipedia.org/wiki/Conservation_of_mass), [momentum](https://en.wikipedia.org/wiki/Momentum), and [energy](https://en.wikipedia.org/wiki/Conservation_of_energy). Understanding the principles behind and gaining the ability to solve such problems efficiently in a computer architecture, such as with [High-Performance Computing](https://it.wikipedia.org/wiki/High_Performance_Computing) (HPC), gives the professional advantage over any given problem in hydraulic or hydrological engineering. In this regard, I can confidently state that now, I am well equipped to tackle any of the hardest problems in the field of Water resources engineering.
 
@@ -25,11 +25,11 @@ In line with the Ph.D. project, I was involved in different researches. The firs
 My background and history
 ======
 
-My M.Sc was from the [Water resources engineering](https://iupware.be/). The program was co-hosted by the [KU Leuven](https://www.kuleuven.be/english/) and the [Vrije Universiteit Brussel](https://www.vub.be/en/home). I took my B.Sc. in Water resources and environmental engineering from [Jimma University](https://www.ju.edu.et/). 
+My M.Sc was in [Water Resources Engineering](https://iupware.be/). The program was co-hosted by the [KU Leuven](https://www.kuleuven.be/english/) and the [Vrije Universiteit Brussel](https://www.vub.be/en/home) and I took my B.Sc. in Water Resources and Environmental Engineering from [Jimma University](https://www.ju.edu.et/). 
 
-I have held multiple teaching positions in [Jimma University](https://www.ju.edu.et/), [Addis Ababa Science and Technology University](http://www.aastu.edu.et/), and [Ethiopian Technical University](https://www.ftveti.edu.et/). I have also worked in the consultancy and construction sectors. In these positions, I have worked at the levels of freelance consultant, Sanitary engineer, and Project manager. 
+I have held multiple teaching positions in [Jimma University](https://www.ju.edu.et/), [Addis Ababa Science and Technology University](http://www.aastu.edu.et/), and [Ethiopian Technical University](https://www.ftveti.edu.et/). Moreover, I am currently co-advising graduate students thesis in [Addis Ababa University](http://www.aau.edu.et/) and [Arba Minch University](https://www.amu.edu.et/). I have also worked in the consultancy and construction sectors. In these two positions, I have worked at the levels of freelance consultant, Sanitary engineer, and Project manager. 
 
 
 My intellectual communities
 ------
-I aspire to tackle the hardest problems in the field of atmospheric science, hydraulic and hydrological engineering.
+I aspire to tackle the most challenging problems in the fields of hydraulic engineering, hydrology and climate science. 
