@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my P.hD in civil, Chemical and Environmental Engineering, with a specialization in [Fluid Dynamics and Environmental Engineering](http://dottorato.dicca.unige.it/eng/fluamb/) from the University of Genoa, Italy.   
+I obtained my Ph.D. in civil, Chemical and Environmental Engineering, with a specialization in [Fluid Dynamics and Environmental Engineering](http://dottorato.dicca.unige.it/eng/fluamb/) from the University of Genoa, Italy.   
 
 My previous experiences working in the academy, consulting, and construction sectors inspired me to pursue a Ph.D. The further one immerses in the field of hydraulic and hydrologic engineering it becomes clear that the ability of the professional to engage in cross-cutting work depends on the level of [Computational Fluid Dynamics](https://en.wikipedia.org/wiki/Computational_fluid_dynamics) (CFD) knowledge he/she has. The main reason is that fluid flow is governed by partial differential equations representing conservation laws of [mass](https://en.wikipedia.org/wiki/Conservation_of_mass), [momentum](https://en.wikipedia.org/wiki/Momentum), and [energy](https://en.wikipedia.org/wiki/Conservation_of_energy). Understanding the principles behind and gaining the ability to solve such problems efficiently in a computer architecture, such as with [High-Performance Computing](https://it.wikipedia.org/wiki/High_Performance_Computing) (HPC), gives the professional advantage over any given problem in hydraulic or hydrological engineering. In this regard, I can confidently state that now, I am well equipped to tackle any of the hardest problems in the field of Water resources engineering.
 
 My work and research
 ======
 
-I have a strong background in the fundamentals of computational fluid dynamics. I also work well with different programming languages and parallel computing.
+I have a strong background in the fundamentals of computational fluid dynamics. I also work well with different programming languages.
 
 My Ph.D. project uses numerical modeling to examine the implications of vortex dynamics on the evolution of wave ripples in an oscillatory flow. It was performed to detect features of the flow field which influence the equilibrium ripple shape, and sediment transport on the onshore [(B. Sishah and  G. Vittori, 2021)](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021JC017439). The primary tool in use is [OpenFOAM](https://www.openfoam.com/).
 
