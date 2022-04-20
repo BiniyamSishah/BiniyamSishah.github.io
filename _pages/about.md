@@ -27,7 +27,7 @@ My background and history
 
 My M.Sc was in [Water Resources Engineering](https://iupware.be/). The program was co-hosted by the [KU Leuven](https://www.kuleuven.be/english/) and the [Vrije Universiteit Brussel](https://www.vub.be/en/home) and I took my B.Sc. in Water Resources and Environmental Engineering from [Jimma University](https://www.ju.edu.et/). 
 
-I have held multiple teaching positions in [Jimma University](https://www.ju.edu.et/), [Addis Ababa Science and Technology University](http://www.aastu.edu.et/), and [Ethiopian Technical University](https://www.ftveti.edu.et/). Moreover, I am currently co-advising graduate students thesis in [Addis Ababa University](http://www.aau.edu.et/) and [Arba Minch University](https://www.amu.edu.et/). I have also worked in the consultancy and construction sectors. In these two positions, I have worked at the levels of freelance consultant, Sanitary engineer, and Project manager. 
+I have held multiple teaching positions in [Jimma University](https://www.ju.edu.et/), [Addis Ababa Science and Technology University](http://www.aastu.edu.et/), and [Ethiopian Technical University](https://www.ftveti.edu.et/). Moreover, I am currently co-advising graduate students thesis in [Addis Ababa University](http://www.aau.edu.et/) and [Arba Minch University](https://www.amu.edu.et/). I have also previously worked in the consultancy and construction sectors. In these two positions, I have worked at the levels of freelance consultant, Sanitary engineer, and Project manager. 
 
 
 My intellectual communities
