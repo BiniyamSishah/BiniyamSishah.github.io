@@ -15,7 +15,7 @@ My previous experiences working in the academy, consulting, and construction sec
 My work and research
 ======
 
-I have a strong background in the fundamentals of computational fluid dynamics. I also work well with different programming languages.
+I have a strong background in the fundamentals of computational fluid dynamics. I also work well with different programming languages and parallel computing
 
 My Ph.D. project uses numerical modeling to examine the implications of vortex dynamics on the evolution of wave ripples in an oscillatory flow. It was performed to detect features of the flow field which influence the equilibrium ripple shape, and sediment transport on the onshore [(B. Sishah and  G. Vittori, 2021)](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021JC017439). The primary tool in use is [OpenFOAM](https://www.openfoam.com/).
 
