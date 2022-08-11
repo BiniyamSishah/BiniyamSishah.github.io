@@ -40,7 +40,7 @@ Education
      * [High Performance Computing in Data Science: focus on Parallelisation with MPI, Feb, 2022](https://drive.google.com/file/d/1DYa9CnR6YmUd5rBmzymjzxkQ5nMNTEhT/view?usp=sharing)
      * [Containerization in HPC, June 20 - 23, 2022](https://drive.google.com/file/d/1u4THRPTD8kepSGl23aAiXewx6K7Y-S8V/view?usp=sharing)
      * [Advanced Muliscale CFD and Turbulence Modelling targeting HPC, July 19 - 21, 2022](https://drive.google.com/file/d/1FpTaN4tZ1yqb6rT_flTUSh3N_hLPtwhW/view?usp=sharing)
-     * [OpenFOAM ML hackathon, July 25 - 28, 2022](https://github.com/OFDataCommittee/OFMLHackathon)
+     * [OpenFOAM ML hackathon, July 25 - 28, 2022](https://github.com/OFDataCommittee/OFMLHackathon/tree/main/2022-07/physics-based-dl-team-solution-03-4)
      
 
 Work experience
