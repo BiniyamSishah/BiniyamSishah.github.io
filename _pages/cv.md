@@ -38,6 +38,10 @@ Education
      * [OpenFOAM Advanced Training organized by Wolf Dynamics, Genoa, Italy, February 2019.](http://www.wolfdynamics.com/our-services/training/topenfoam-advanced-training.html?id=131)
      * [Flow3D, Water and Environment workshop Électricité de France S.A., June 18-19, 2019, France](https://www.flow3d.com/flow-3d-european-users-conference-2019/)
      * [High Performance Computing in Data Science: focus on Parallelisation with MPI, Feb, 2022](https://drive.google.com/file/d/1DYa9CnR6YmUd5rBmzymjzxkQ5nMNTEhT/view?usp=sharing)
+     * [Containerization in HPC, June 20 - 23, 2022](https://drive.google.com/file/d/1u4THRPTD8kepSGl23aAiXewx6K7Y-S8V/view?usp=sharing)
+     * [Advanced Muliscale CFD and Turbulence Modelling targeting HPC, July 19 - 21, 2022](https://drive.google.com/file/d/1FpTaN4tZ1yqb6rT_flTUSh3N_hLPtwhW/view?usp=sharing)
+     * [OpenFOAM ML hackathon, July 25 - 28, 2022](https://github.com/OFDataCommittee/OFMLHackathon)
+     
 
 Work experience
 ======
