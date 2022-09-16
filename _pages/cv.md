@@ -41,6 +41,7 @@ Education
      * [Containerization in HPC, June 20 - 23, 2022](https://drive.google.com/file/d/1u4THRPTD8kepSGl23aAiXewx6K7Y-S8V/view?usp=sharing)
      * [Advanced Muliscale CFD and Turbulence Modelling targeting HPC, July 19 - 21, 2022](https://drive.google.com/file/d/1FpTaN4tZ1yqb6rT_flTUSh3N_hLPtwhW/view?usp=sharing)
      * [OpenFOAM ML hackathon, July 25 - 28, 2022](https://github.com/OFDataCommittee/OFMLHackathon/tree/main/2022-07/physics-based-dl-team-solution-03-4)
+     * [HPC in Engineering: focus on CFD, September 12 – 16, 2022](https://drive.google.com/file/d/1xKmi2Pu2D3Hv0lJFVPDgprbPZFnoI9aQ/view?usp=sharing)
      
 
 Work experience
